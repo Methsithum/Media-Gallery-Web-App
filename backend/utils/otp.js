@@ -1,1 +1,0 @@
-MONGO_URI = "mongodb+srv://root:root@cluster0.uptxt.mongodb.net/"
